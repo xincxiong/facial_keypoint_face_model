@@ -8,13 +8,12 @@ project in computer vision nano-degree  program of Udacity. to recognize faces a
 
 [image1]: ./images/obamas_with_keypoints.png "Facial Keypoint Detection"
 
-# Computer Vision Foundation Nanodegree
-# Computer Vision Capstone Project 
-# Facial Keypoint Detection and Real-time Filtering
+## Computer Vision Capstone Project 
+## Facial Keypoint Detection and Real-time Filtering
 
 ## Project Overview
 
-Welcome to the Computer Vision capstone project in the Computer Vision Foundation Nanodegree program! In this project, you’ll combine your knowledge of computer vision techniques and deep learning to build and end-to-end facial keypoint recognition system. Facial keypoints include points around the eyes, nose, and mouth on any face and are used in many applications, from facial tracking to emotion recognition. Your completed code should be able to take in any image containing faces and identify the location of each face and their facial keypoints, as shown below.
+In this project, you’ll combine your knowledge of computer vision techniques and deep learning to build and end-to-end facial keypoint recognition system. Facial keypoints include points around the eyes, nose, and mouth on any face and are used in many applications, from facial tracking to emotion recognition. Your completed code should be able to take in any image containing faces and identify the location of each face and their facial keypoints, as shown below.
 
 
 ### Amazon Web Services
