@@ -1,5 +1,5 @@
 # facial_keypoint
-project in computer vision nano-degree  program of Udacity. to recognize faces and facial keypoints, such as the location of eyes, nose and mouth on a face
+The project is part of computer vision nano-degree  program of Udacity. to recognize faces and facial keypoints, such as the location of eyes, nose and mouth on a face.
 
 
 *** 
