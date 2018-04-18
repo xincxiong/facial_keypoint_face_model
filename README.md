@@ -1,6 +1,9 @@
 # facial_keypoint
 The project is part of computer vision nano-degree  program of Udacity. to recognize faces and facial keypoints, such as the location of eyes, nose and mouth on a face.
 
+# face model 
+In openface folder this project is to train a face model using tensorflow to build face recognition system. Draw on papers-- DeepFace and FaceNet.
+
 
 *** 
 
